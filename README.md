@@ -25,7 +25,7 @@
 | | |
 | --- | --- |
 | **Язык и фреймворки** | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white) ![Django REST](https://img.shields.io/badge/Django_REST-000?style=for-the-badge&logo=django&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-000?style=for-the-badge&logo=pydantic&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-000?style=for-the-badge&logo=celery&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-000?style=for-the-badge) |
-| **AI / LLM** | ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-000?style=for-the-badge&logo=qdrant&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-000?style=for-the-badge&logo=milvus&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white) |
+| **AI / LLM** | ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-000?style=for-the-badge&logo=qdrant&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-000?style=for-the-badge&logo=milvus&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge) |
 | **Данные и очереди** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![MinIO](https://img.shields.io/badge/S3_/_MinIO-000?style=for-the-badge&logo=minio&logoColor=white) |
 | **Инфраструктура** | ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/Swarm-000?style=for-the-badge&logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-000?style=for-the-badge&logo=traefikproxy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white) |
 
@@ -102,29 +102,6 @@ open-source модель DeepSeek-R1-Distill-Qwen-32B. Собрал микрос
 индексация и хранение в S3. Оптимизировал запросы в PostgreSQL: разбор через
 `EXPLAIN`, индексы, устранение N+1. Поддерживал Docker Swarm и мониторинг на
 Grafana, Prometheus и Loki.
-
-## Статистика
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=axlerya&show_icons=true&hide=stars,issues&include_all_commits=true&hide_border=true&locale=ru&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=axlerya&show_icons=true&hide=stars,issues&include_all_commits=true&hide_border=true&locale=ru" alt="Статистика GitHub" height="165">
-</picture>
-<!-- Языки считаются по объёму кода, а .ipynb весит в основном за счёт вложенных
-     картинок в выводах ячеек и перекрывает всё остальное. Убери hide=..., если
-     хочешь видеть Jupyter Notebook в списке. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=axlerya&layout=compact&langs_count=6&hide=jupyter%20notebook&hide_border=true&locale=ru&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axlerya&layout=compact&langs_count=6&hide=jupyter%20notebook&hide_border=true&locale=ru" alt="Языки" height="165">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=axlerya&hide_border=true&theme=github-compact">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=axlerya&hide_border=true&theme=github-light" alt="График активности">
-</picture>
-
-</div>
 
 ## Связаться
 
