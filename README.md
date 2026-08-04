@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://t.me/axlerya"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:alexander.ryabov.002@gmail.com"><img src="https://img.shields.io/badge/alexander.ryabov.002%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="alexander.ryabov.002@gmail.com"></a>
 </p>
 
 ---
@@ -16,11 +15,6 @@
 событийные системы на Kafka и RabbitMQ, LLM-оркестрация на LangGraph и
 LangChain, RAG и векторный поиск. Веду сервис целиком — от доменной модели и
 контрактов API до rolling-деплоя в Docker Swarm.
-
-Последнее место работы — Backend / AI Engineer: AI-оркестрация и backend
-платформы расчёта мультимодальных перевозок.
-
-Магистратура НИЯУ МИФИ — науки о данных и искусственный интеллект.
 
 ## Стек
 
@@ -31,4 +25,4 @@ LangChain, RAG и векторный поиск. Веду сервис цели�
 | **Данные и очереди** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![MinIO](https://img.shields.io/badge/S3_/_MinIO-000?style=for-the-badge&logo=minio&logoColor=white) |
 | **Инфраструктура** | ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/Swarm-000?style=for-the-badge&logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-000?style=for-the-badge&logo=traefikproxy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white) |
 
-Проекты — в закреплённых репозиториях ниже.
+
