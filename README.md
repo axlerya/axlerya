@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://t.me/axlerya"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:alexander.ryabov.002@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:alexander.ryabov.002@gmail.com"><img src="https://img.shields.io/badge/alexander.ryabov.002%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white" alt="alexander.ryabov.002@gmail.com"></a>
 </p>
 
 ---
@@ -30,12 +30,5 @@ LangChain, RAG и векторный поиск. Веду сервис цели�
 | **AI / LLM** | ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-000?style=for-the-badge&logo=qdrant&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-000?style=for-the-badge&logo=milvus&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge) |
 | **Данные и очереди** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![MinIO](https://img.shields.io/badge/S3_/_MinIO-000?style=for-the-badge&logo=minio&logoColor=white) |
 | **Инфраструктура** | ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/Swarm-000?style=for-the-badge&logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-000?style=for-the-badge&logo=traefikproxy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white) |
-
-## Связаться
-
-Открыт к предложениям по позициям **Backend Developer** и **AI / LLM Engineer**.
-
-- Telegram — [@axlerya](https://t.me/axlerya)
-- Почта — [alexander.ryabov.002@gmail.com](mailto:alexander.ryabov.002@gmail.com)
 
 Проекты — в закреплённых репозиториях ниже.
